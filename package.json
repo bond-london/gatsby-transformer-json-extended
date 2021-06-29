@@ -1,7 +1,7 @@
 {
   "name": "@bond-london/gatsby-transformer-json-extended",
   "description": "Extended version of gatsby json transformer",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Nick Randell <nick.randell@bond.fi>",
   "bugs": {
     "url": "https://github.com/bond-london/gatsby-transformer-json-extended/issues"
